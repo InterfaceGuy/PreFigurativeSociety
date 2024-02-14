@@ -1,5 +1,5 @@
-# PreFigurativeSociety
+# DreamTalk:
 ![](PreFigurativeSociety.png)
 
 # Perspectives:
-- Zak Stein <> Jonathan Rowson: https://www.youtube.com/watch?v=Jl2BbvgGtvQ
+- [Zak Stein <> Jonathan Rowson](https://www.youtube.com/watch?v=Jl2BbvgGtvQ)
